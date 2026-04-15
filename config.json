@@ -1,0 +1,210 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1A1C1E",
+            "lang-select-color": "#222829",
+            "bg-light": "#1A1C1E",
+            "welcome-bonus-bg": "#1A1C1E",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#373b3e",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#1A1C1E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#ffffff",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#373b3e",
+            "yellow-button": "#E02125",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1A1C1E",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#1A1C1E",
+            "faq-label": "#1A1C1E",
+            "bg-footer": "#1A1C1E",
+            "copyright": "#e7e7d5",
+            "starColor": "#ffd500",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6236"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6238",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Circus Carnac"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6239",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Jugar ahora"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino Circus Carnac",
+                    "title": "Casino Circus Carnac : machines à sous, bistrot, bar et événements",
+                    "description": "Casino Circus Carnac réunit plus de 90 machines à sous, la roulette anglaise électronique, le blackjack, le Circus Bistro, un bar, un parking et des événements à Carnac, en France.",
+                    "canonical": "casino-circus-carnac.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6240",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-circus-carnac.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6241"
+                },
+                "hero": {
+                    "title": "Profitez d’une expérience de jeux et de loisirs au Casino Circus Carnac à Carnac, France",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6242",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 6,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6243",
+                    "mobileImageSizeModifier": -2,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Plus de 90 machines dès 0,01 €",
+                        "Terrasse fumeur avec 13 machines",
+                        "Club gratuit avec avantages toute l’année",
+                        "Bistro, bar, événements et parking sur place",
+                        "Ambiance chic près du littoral de Carnac"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino Circus Carnac App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6244",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino Circus Carnac App",
+                    "mobileGooglePlayImageTitle": "Casino Circus Carnac App",
+                    "mobileIosImageTitle": "Casino Circus Carnac App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "Faits intéressants",
+                        "description1": "",
+                        "items": [
+                            "Plus de 90 machines à sous, dont 13 sur une terrasse accessible aux fumeurs, avec des mises à partir de 0,01 €",
+                            "16 postes de roulette anglaise électronique, 2 tables de blackjack dès 5 € et 1 table d’Ultimate Texas Hold’em dès 2 €",
+                            "Salle de réception modulable de 220 m², capacité de groupe de 10 à 200 personnes, ouverture quotidienne à partir de 10 h"
+                        ],
+                        "description2": "Au Casino Circus Carnac, nous nous positionnons comme une destination de loisirs terrestre à Carnac, où le jeu, la restauration et l’environnement balnéaire se rejoignent dans une seule et même adresse. Nous accueillons nos visiteurs toute l’année au 41 Avenue des Salines, dans une atmosphère chic, chaleureuse et détendue, à proximité de la mer et du secteur des Salines. Cette implantation renforce notre identité de lieu de sortie complet, et non de simple salle de jeu.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6245",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Casino Circus Carnac",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Caractéristiques du casino",
+                        "description": "<p>\nCe qui nous distingue à Carnac, c’est notre capacité à intégrer naturellement le jeu dans une soirée complète. Nos visiteurs peuvent commencer par une session sur machine à sous à très faible mise, poursuivre sur la roulette électronique ou le blackjack, puis prolonger l’expérience avec un dîner au bistrot, un passage au bar ou une animation musicale. Cette logique de parcours rend notre casino particulièrement pertinent pour les vacanciers, les visiteurs de passage et les habitués qui recherchent une offre plus large qu’un simple espace de jeu.\n<\/p>\n<br>\n<p>\nD’un point de vue pratique, notre offre trouve un bon équilibre entre accessibilité et diversité. La mise minimale de 0,01 € sur les machines à sous facilite la découverte et le divertissement à budget maîtrisé, tandis que les tables traditionnelles et les postes électroniques structurent une expérience plus complète. Le Circus Club gratuit, le parking, le parking privé et les espaces événementiels renforcent la valeur de notre casino pour les visites récurrentes, les longues soirées et les usages mixtes entre loisir, restauration et réception.\n<\/p>\n<br>\n<p>\nNotre établissement répond aussi à une attente essentielle des visiteurs d’aujourd’hui: pouvoir profiter d’un lieu unique où plusieurs envies peuvent coexister. Certains viennent pour jouer quelques instants dans une ambiance détendue, d’autres souhaitent s’installer plus longtemps et faire du casino un véritable temps fort de leur soirée. Cette souplesse d’usage permet à chacun d’adapter son expérience à son rythme, à son budget et à son envie du moment, sans contrainte inutile.\n<\/p>\n<br>\n<p>\nL’atmosphère du casino participe pleinement à cette expérience globale. En complément de l’offre de jeux, l’environnement sur place crée un cadre agréable pour se retrouver, échanger et prolonger la soirée dans une ambiance conviviale. Le bar, le bistrot et les animations contribuent à installer une dynamique plus vivante, qui dépasse la seule pratique du jeu et transforme la visite en moment de détente et de partage.\n<\/p>\n<br>\n<p>\nCette dimension est particulièrement appréciable dans une destination comme Carnac, où les visiteurs recherchent souvent des activités capables de compléter naturellement une journée de découverte, de promenade ou de séjour en bord de mer. Le casino s’inscrit ainsi dans une logique de loisir local et touristique à la fois, en proposant une solution de sortie accessible, animée et facile à intégrer dans différents types de programmes, qu’il s’agisse d’une soirée improvisée ou d’un moment planifié.\n<\/p>\n<br>\n<p>\nNos équipements et nos services renforcent également le confort d’usage sur place. La présence de solutions de stationnement, d’espaces adaptés aux événements et d’un programme de fidélité gratuit apporte une continuité appréciable pour les visiteurs réguliers comme pour ceux qui découvrent l’établissement. Cette organisation rend l’expérience plus fluide et plus pratique, tout en donnant au casino une fonction plus large que celle d’un simple lieu de passage.\n<\/p>\n<br>\n<p>\nEnfin, notre positionnement repose sur une combinaison claire: accessibilité, diversité des jeux, services complémentaires et ambiance. C’est cette cohérence qui fait du Casino Circus Carnac un lieu capable de répondre à des attentes variées, qu’il s’agisse de se divertir à faible mise, de profiter d’une sortie plus complète, d’organiser un moment convivial entre proches ou simplement de découvrir un établissement animé dans un cadre attractif. Pour beaucoup de visiteurs, cette polyvalence constitue une vraie valeur ajoutée et renforce l’intérêt du casino dans l’offre de loisirs locale.\n<\/p><br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\"> <tr> <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word; width:35%;\"> Caractéristique <\/th> <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word; width:65%;\"> Détails <\/th> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Type de casino <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Casino terrestre <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Emplacement <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> 41 Avenue des Salines, 56340 Carnac, France <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Horaires d’ouverture <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Du lundi au jeudi et le dimanche : de 10 h à 2 h ; le vendredi et le samedi : de 10 h à 3 h <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Ambiance <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Cadre chic, chaleureux et détendu en bord de mer <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Machines à sous <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Plus de 90 machines <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Mise minimale aux machines <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> 0,01 € <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Espace de jeu extérieur <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Terrasse accessible aux fumeurs avec 13 machines à sous <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Jeux de table traditionnels <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> 1 table d’Ultimate Texas Hold’em avec jackpot progressif ; 2 tables de blackjack <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Jeux électroniques <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> 16 postes de roulette anglaise électronique <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Programme de fidélité <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Circus Club gratuit avec points, cadeaux et surprises d’anniversaire <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Restaurant <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Circus Bistro avec produits frais de saison et cuisine maison <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Bar <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Ouvert tous les jours dès 10 h ; cocktails avec ou sans alcool ; restauration légère toute la journée <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Divertissement <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Concerts et animations musicales tout au long de l’année <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Espaces événementiels <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Salle de réception modulable et équipée de 220 m² <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Parking <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Parking et parking privé <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Langues <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Français et anglais <\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Conditions d’entrée <\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\"> Réservé aux adultes de 18 ans et plus avec pièce d’identité valide <\/td> <\/tr> <\/table> <\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Dépôts et retraits",
+                        "description": "<p>\nPour un casino terrestre, la logique des transactions ne repose pas uniquement sur les moyens de paiement affichés, mais aussi sur la lisibilité du budget nécessaire avant la visite. À Carnac, les chiffres publiés les plus utiles pour la gestion du bankroll sont les mises minimales de jeu : 0,01 € sur les machines à sous, 1 € sur la roulette anglaise électronique, 2 € sur l’Ultimate Texas Hold’em et 5 € sur le blackjack. Cette structure permet à nos visiteurs de choisir facilement entre une expérience découverte, une session détendue ou une soirée davantage orientée vers les tables.\n<\/p>\n<br>\n<p>\nEn parallèle, nous gardons ce bloc strictement factuel. Les informations publiques disponibles sur le Casino Circus Carnac détaillent clairement l’offre de jeu, l’accès, la restauration, le programme de fidélité et les services sur place, mais les données précises concernant les méthodes de dépôt, les retraits, les frais et les délais de traitement ne sont pas specified. Pour rester exacts, nous le reflétons tel quel dans le tableau ci-dessous.\n<\/p>\n<br>\n<p>\nCette approche est importante, car dans un établissement terrestre, la préparation d’une visite repose souvent sur une lecture simple des conditions d’accès au jeu plutôt que sur une logique transactionnelle comparable à celle d’une plateforme en ligne. Les visiteurs cherchent avant tout à savoir quel budget minimum prévoir pour participer, tester plusieurs jeux ou construire une soirée cohérente avec leurs préférences. À Carnac, les mises minimales publiées offrent justement ce repère concret, immédiatement compréhensible et utile avant même l’arrivée sur place.\n<\/p>\n<br>\n<p>\nLa présence de seuils d’entrée différenciés selon les jeux contribue également à une meilleure flexibilité d’usage. Une mise minimale très basse sur les machines à sous permet une découverte accessible et progressive, tandis que les tables et jeux électroniques avec des niveaux d’entrée plus élevés structurent une expérience plus orientée vers des sessions de jeu spécifiques. Cette répartition aide les visiteurs à adapter naturellement leur parcours en fonction de leur budget, de leur familiarité avec les jeux et du temps qu’ils souhaitent consacrer à leur visite.\n<\/p>\n<br>\n<p>\nPour de nombreux clients, cette lisibilité représente un élément de confort. Elle permet de mieux anticiper la dépense de loisir, d’éviter les approximations et de choisir plus sereinement entre plusieurs formats de soirée. Certains privilégieront une approche légère, centrée sur quelques parties à faible mise, tandis que d’autres s’orienteront vers une expérience plus complète incluant jeux de table, restauration et temps de détente sur place. Dans les deux cas, les indications de mise minimale jouent un rôle utile dans la préparation du budget.\n<\/p>\n<br>\n<p>\nIl est également pertinent de distinguer clairement ce qui relève d’une information publique confirmée et ce qui ne l’est pas. Dans le cas du Casino Circus Carnac, les éléments publiés permettent de décrire avec précision l’environnement général de l’établissement, son offre de jeu et plusieurs services complémentaires, mais ils ne détaillent pas certains paramètres transactionnels comme les méthodes exactes de paiement acceptées, les éventuels frais associés, les plafonds, les modalités de retrait ou les délais de traitement. Maintenir cette distinction permet de préserver une présentation rigoureuse et fiable.\n<\/p>\n<br>\n<p>\nCette rigueur rédactionnelle est d’autant plus importante que les visiteurs peuvent interpréter différemment la notion de “transactions” dans le contexte d’un casino physique. Sur place, l’expérience repose davantage sur les conditions d’accès au jeu, la praticité des services et la clarté des informations disponibles que sur une mécanique détaillée de dépôts et retraits présentée à l’avance. En l’absence de données publiques plus précises, il est donc plus juste de mettre en avant les seuils de mise et les informations confirmées, plutôt que de suggérer des modalités non documentées.\n<\/p>\n<br>\n<p>\nAu final, le Casino Circus Carnac présente une structure lisible pour les visiteurs qui souhaitent encadrer leur budget avant une sortie. Les mises minimales publiées constituent les repères les plus concrets pour organiser une session de découverte, un moment de divertissement maîtrisé ou une soirée plus complète. En revanche, les informations détaillées sur les méthodes de paiement, les retraits, les frais et les délais n’étant pas précisées dans les données publiques consultables, elles doivent être présentées avec prudence et sans extrapolation. Cette combinaison entre transparence sur les chiffres disponibles et retenue sur les éléments non spécifiés permet de proposer un contenu à la fois utile, clair et exact.\n<\/p><br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    <tr>\n      <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Élément\n      <\/th>\n      <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Informations disponibles\n      <\/th>\n      <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Détail\n      <\/th>\n      <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Utilité pour le visiteur\n      <\/th>\n      <th style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Statut\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Machines à sous\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Mise minimale publiée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        0,01 €\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Permet une découverte du jeu avec un budget très maîtrisé\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        confirmé\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Roulette anglaise électronique\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Mise minimale publiée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        1 €\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Offre un accès simple à une expérience électronique plus structurée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        confirmé\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Ultimate Texas Hold’em\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Mise minimale publiée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        2 €\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Convient à une session plus orientée vers les tables avec un budget encore accessible\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        confirmé\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Blackjack\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Mise minimale publiée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        5 €\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Oriente davantage la visite vers une expérience de table plus classique\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        confirmé\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Méthodes de paiement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non détaillées publiquement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Aucune liste précise publiée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Nécessite une vérification directe sur place ou auprès du casino\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        not specified\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Retraits\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisés publiquement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Modalités non documentées\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Information utile à confirmer avant une visite orientée jeu de table\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        not specified\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Frais\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisés publiquement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Aucun détail publié\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Ne permet pas d’anticiper un coût additionnel à partir des données publiques\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        not specified\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Délais de traitement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisés publiquement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Aucune indication publiée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        La planification repose surtout sur les mises minimales connues\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        not specified\n      <\/td>\n    <\/tr>\n  <\/table>\n<\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se situe le Casino Circus Carnac ?",
+                            "answer": "Nous sommes situés au 41 Avenue des Salines, 56340 Carnac, France."
+                        },
+                        {
+                            "title": "Quels jeux proposons-nous au Casino Circus Carnac ?",
+                            "answer": "Nous proposons des machines à sous, l’Ultimate Texas Hold’em, le blackjack et la roulette anglaise électronique."
+                        },
+                        {
+                            "title": "Quelle est la mise minimale au Casino Circus Carnac ?",
+                            "answer": "Les minimums publiés sont de 0,01 € sur les machines à sous, 1 € sur la roulette anglaise électronique, 2 € sur l’Ultimate Texas Hold’em et 5 € sur le blackjack."
+                        },
+                        {
+                            "title": "Le Casino Circus Carnac dispose-t-il d’un restaurant et d’un bar ?",
+                            "answer": "Oui. Nous disposons du Circus Bistro et d’un bar ouvert tous les jours dès 10 h, avec cocktails et restauration légère."
+                        },
+                        {
+                            "title": "Le Casino Circus Carnac propose-t-il un parking et des espaces événementiels ?",
+                            "answer": "Oui. Nous proposons un parking, un parking privé et une salle de réception modulable de 220 m² pour les événements privés et professionnels."
+                        },
+                        {
+                            "title": "Existe-t-il un programme de fidélité au Casino Circus Carnac ?",
+                            "answer": "Oui. Notre Circus Club gratuit permet de cumuler des points et d’obtenir des cadeaux et avantages, avec des surprises d’anniversaire."
+                        },
+                        {
+                            "title": "Sous quelle licence fonctionne le Casino Circus Carnac ?",
+                            "answer": "not specified"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
